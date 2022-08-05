@@ -1,6 +1,6 @@
 # Web Design Landing Page
 
-##### Published Url:-[Web Design Home](https://legendary-choux-e58f1e.netlify.app/)
+##### Published Url:-[Web Design](https://legendary-choux-e58f1e.netlify.app/)
 
 
 <img src="https://github.com/sirugudipraveen3637/Webdesignlandingpage_8/blob/main/8.png" height="60%" width="75%"/>
