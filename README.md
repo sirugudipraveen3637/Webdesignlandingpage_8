@@ -12,6 +12,7 @@
   - Linear Gradient
   - Image positioning
   - Navigation Menu
+  - Responsive web
   
 ### Development Efforts:- 3 hours
   
